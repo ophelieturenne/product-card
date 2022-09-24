@@ -1,0 +1,18 @@
+#stars {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+#stars > li {
+  display: inline;
+  color: orange;
+}
+
+#like {
+  color: deeppink;
+  font-size: 25px;
+  position: absolute;
+  top: 30px;
+  left: 30px;
+}
